@@ -1,4 +1,4 @@
-/** General Infomation */
+/** With WYSIWYG HTML Editor */
 
 // Adding a custom Meta container to admin products pages
 add_action( 'add_meta_boxes', 'create_custom_meta_box' );
